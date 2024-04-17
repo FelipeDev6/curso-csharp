@@ -24,7 +24,6 @@ class Program
         {
             Console.WriteLine("\nVocê não tem dinheiro suficiente para comprar esses itens.");
         }
-
         Console.WriteLine("\nPressione qualquer tecla para sair...");
         Console.ReadKey();
     }
